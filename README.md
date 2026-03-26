@@ -6,22 +6,22 @@
 <h1 align="center">🌍 Geógrafo | Full Stack Developer | GeoSpatial Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Construyendo+geovisores+interactivos...;GIS+%2B+Web+Development;Computer+Vision+Applied+to+Territory;ArcGIS+%26+QGIS+Custom+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Geovisores+Interactivos+⚡;GIS+%2B+Full+Stack+Development;Computer+Vision+Applied+to+Maps;Custom+Tools+for+ArcGIS+%26+QGIS" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZlN2Q3b2R1a3Z4c3F0bGZqY2l5eG1qY3FzN2Z1dW5qZ3R6aG0yZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
-Soy un geógrafo que transforma datos espaciales en soluciones digitales.
+Soy un geógrafo que lleva el territorio al siguiente nivel digital:
 
-- 🌐 Desarrollo de **geovisores modernos**
-- 🛰️ Análisis espacial avanzado
-- 🤖 Integración de **Computer Vision**
-- ⚙️ Automatización en **ArcGIS Pro** y **QGIS**
-- 💻 Arquitecturas Full Stack
+- 🌐 Desarrollo de **geovisores avanzados**
+- 🛰️ Modelamiento y análisis espacial
+- 🤖 **Computer Vision + GIS**
+- ⚙️ Automatización en ArcGIS Pro & QGIS
+- 💻 Arquitecturas Full Stack escalables
 
 ---
 
@@ -42,17 +42,25 @@ Soy un geógrafo que transforma datos espaciales en soluciones digitales.
 ## 🗺️ Proyectos
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
-🔹 **GeoVisores Web** → Visualización en tiempo real  
-🔹 **Plugins GIS** → Automatización en QGIS & ArcGIS  
-🔹 **Computer Vision** → Detección en imágenes satelitales  
-🔹 **APIs Geoespaciales** → Backend escalable  
+🔹 **GeoVisores Web** → Visualización dinámica en tiempo real  
+🔹 **Plugins GIS** → Automatización avanzada  
+🔹 **Computer Vision** → Análisis de imágenes satelitales  
+🔹 **APIs Geoespaciales** → Backend robusto  
 
 ---
 
-## 📊 Estadísticas (dinámicas)
+## 🧑‍💻 Modo Programador
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 📊 Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -64,7 +72,7 @@ Soy un geógrafo que transforma datos espaciales en soluciones digitales.
 
 ---
 
-## 🐍 Actividad (animación)
+## 🐍 Actividad
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
@@ -74,7 +82,7 @@ Soy un geógrafo que transforma datos espaciales en soluciones digitales.
 
 ## ⚡ Filosofía
 
-> “La geografía del futuro se programa.”
+> “No solo analizo el territorio… lo programo.”
 
 ---
 
