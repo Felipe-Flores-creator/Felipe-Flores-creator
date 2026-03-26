@@ -80,7 +80,7 @@ Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
 
 ---
 
-## 🐍 Actividad
+## 🐍 Actividad 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
@@ -90,7 +90,7 @@ Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
 
 ## ⚡ Filosofía
 
-> “No solo analizo el territorio… lo programo.”
+> “Soluciones inovadoras que impacten en los usuarios”  
 
 ---
 
@@ -99,7 +99,7 @@ Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
-  </a>
+  </a> https://www.linkedin.com/in/felipe-flores-224532216/
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome"/>
   </a>
