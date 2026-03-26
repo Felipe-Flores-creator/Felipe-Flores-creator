@@ -13,15 +13,15 @@
 
 ## 🧠 Sobre mí
 
-<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" width="320" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU3bDlqc2FoeTRnaDJudmNhZGVzNnhoYjh0M3lrZGp5cWduOXBlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkJsL5AIIsg7K/giphy.gif">
 
-Soy un geógrafo que lleva el territorio al siguiente nivel digital:
+Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
 
-- 🌐 Desarrollo de **geovisores avanzados**
+- 🌐 Desarrollo de **geovisores interactivos**
 - 🛰️ Modelamiento y análisis espacial
-- 🤖 **Computer Vision + GIS**
-- ⚙️ Automatización en ArcGIS Pro & QGIS
-- 💻 Arquitecturas Full Stack escalables
+- 🤖 Integración de **Computer Vision + GIS**
+- ⚙️ Automatización en **ArcGIS Pro** y **QGIS**
+- 💻 Arquitecturas **Full Stack escalables**
 
 ---
 
@@ -42,11 +42,11 @@ Soy un geógrafo que lleva el territorio al siguiente nivel digital:
 ## 🗺️ Proyectos
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FpMTkxam9qdWg3em52bzdtd3h1MWNqZXB3YzFhOHoxOWxpNjJ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFLNss6klC5z3vsofr/giphy.gif" width="500"/>
 </p>
 
 🔹 **GeoVisores Web** → Visualización dinámica en tiempo real  
-🔹 **Plugins GIS** → Automatización avanzada  
+🔹 **Plugins GIS** → Automatización avanzada en QGIS & ArcGIS  
 🔹 **Computer Vision** → Análisis de imágenes satelitales  
 🔹 **APIs Geoespaciales** → Backend robusto  
 
@@ -55,7 +55,15 @@ Soy un geógrafo que lleva el territorio al siguiente nivel digital:
 ## 🧑‍💻 Modo Programador
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZlZmo2NGwyYXNkcnU4bHViMmZ6a3gxbmJibTB6eG9kejBnNnV6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🌐 Geospatial Intelligence
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RmOWgwNDZsemFza3YybDl4NHN0cnp0eDc1azFrcm82OTB5Y3cyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="500"/>
 </p>
 
 ---
