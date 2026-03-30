@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=GeoDev%20🌎&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">🌍 Geógrafo |  Developer | GeoSpatial Engineer</h1>
+<h1 align="center">🌍 Geógrafo |  Developer of software| GeoSpatial Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Geovisores+Interactivos+⚡;GIS+%2B+Full+Stack+Development;Computer+Vision+Applied+to+Maps;Custom+Tools+for+ArcGIS+%26+QGIS" />
@@ -50,11 +50,18 @@ Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
 🔹 **Computer Vision** → Análisis de imágenes satelitales  
 🔹 **APIs Geoespaciales** → Backend robusto  
 ---
-## 🌐 Geospatial Intelligence
+## 🌐 Geospatial Intelligence of software
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RmOWgwNDZsemFza3YybDl4NHN0cnp0eDc1azFrcm82OTB5Y3cyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="200"/>
 </p>
+<p> align="right">
+  <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY281eHc2NWt3ejl1NXYzbGJyNXhlNm80N3d3OTFuM2ZlNmVhZXdndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" widht="200"/>
+</p>
+<p> 
+align="left"
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpoc3RiZzd1cm04dncycjMwb2V2aTU0M2xqZ2NvOGhzdmpnbWtxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" widht="200"/>
+<p/>
 
 ---
 
