@@ -34,6 +34,7 @@ Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![PostGIS](https://img.shields.io/badge/PostGIS-000?style=for-the-badge&logo=postgresql)
+![Angular](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh2bGYybWhoNGpib3h6cHhmc3N2bngzcm1uZHpyMTRpZmFzb2JsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/onvmCjBsZXmwR3x21E/giphy.gif)
 
 </p>
 
