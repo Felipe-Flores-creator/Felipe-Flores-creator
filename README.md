@@ -72,17 +72,9 @@ Soy un geógrafo especializado en programación que busca diseñar soluciones di
 
 ---
 
-## 🐍 Actividad 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚡ Filosofía
 
-> “Soluciones inovadoras que impacten en los usuarios”  
+> "Si compila, no siempre quiere decir que esté bien escrito" “Soluciones inovadoras que impacten en los usuarios”  
 
 ---
 
