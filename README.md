@@ -17,9 +17,9 @@
 
 Soy un geógrafo especializado en programación que busca diseñar soluciones digitales avanzadas:
 
-- 🌐 Desarrollo de **geovisores interactivos**
+- 🌐 Desarrollo de software y geovisores interactivos**
 - 🛰️ Modelamiento y análisis espacial
-- 🤖 Integración de **Computer Vision + GIS**
+- 🤖 Integración de **Computer Vision, chat-bots entre otros.**
 - ⚙️ Automatización en **ArcGIS Pro** y **QGIS**
 - 💻 Depuración de códigos con buenas practicas**
 
