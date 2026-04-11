@@ -15,13 +15,13 @@
 
 <img align="right" width="320" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU3bDlqc2FoeTRnaDJudmNhZGVzNnhoYjh0M3lrZGp5cWduOXBlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkJsL5AIIsg7K/giphy.gif">
 
-Soy un geógrafo que transforma el territorio en soluciones digitales avanzadas:
+Soy un geógrafo especializado en programación que busca diseñar soluciones digitales avanzadas:
 
 - 🌐 Desarrollo de **geovisores interactivos**
 - 🛰️ Modelamiento y análisis espacial
 - 🤖 Integración de **Computer Vision + GIS**
 - ⚙️ Automatización en **ArcGIS Pro** y **QGIS**
-- 💻 Arquitecturas **Full Stack escalables**
+- 💻 Depuración de códigos con buenas practicas**
 
 ---
 
