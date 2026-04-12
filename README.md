@@ -74,7 +74,7 @@ Soy un geógrafo especializado en programación que busca diseñar soluciones di
 
 ## ⚡ Filosofía
 
-> "Si compila, no siempre quiere decir que esté bien escrito" “Soluciones inovadoras que impacten en los usuarios”  
+> "Si vas a hacerlo, hazlo bien”  
 
 ---
 
