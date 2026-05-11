@@ -34,10 +34,9 @@ Soy un geógrafo especializado en programación que busca diseñar soluciones di
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![PostGIS](https://img.shields.io/badge/PostGIS-000?style=for-the-badge&logo=postgresql)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 </p>
 
