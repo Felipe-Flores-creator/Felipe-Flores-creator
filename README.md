@@ -59,6 +59,8 @@ Soy un geógrafo especializado en programación que busca diseñar soluciones di
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RmOWgwNDZsemFza3YybDl4NHN0cnp0eDc1azFrcm82OTB5Y3cyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="200"/>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY281eHc2NWt3ejl1NXYzbGJyNXhlNm80N3d3OTFuM2ZlNmVhZXdndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpoc3RiZzd1cm04dncycjMwb2V2aTU0M2xqZ2NvOGhzdmpnbWtxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="120"/>
+</p>
 </p>
 
 ## 📊 Estadísticas
